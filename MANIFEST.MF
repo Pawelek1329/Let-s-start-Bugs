@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: xyz.kaspek.bot.Main
+Class-Path: xyz.kaspek.bot.Main
+

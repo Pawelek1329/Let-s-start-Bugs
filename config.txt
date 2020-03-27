@@ -1,0 +1,4 @@
+token: TTWgqjG2sPIyzEIbDc26V228gX6kCKoX
+ownerId: 422438507466981376
+isCheckAlreadySentEnabled: false
+message: TEST NOWEGO BOTA
